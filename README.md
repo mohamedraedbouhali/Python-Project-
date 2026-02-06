@@ -72,22 +72,37 @@ A high-performance **React** application using **Leaflet.js** to render Seattle'
 ## 👤 Project Leads
 
 <div align="center">
-  <table style="border: none;">
+  <table style="border: none; border-collapse: collapse;">
     <tr>
-      <td align="center" width="45%">
-        <img src="raed.jpg" width="200" height="200" style="border-radius:50%; object-fit: cover; border: 3px solid #2ecc71;" alt="Mohamed Raed Bouhali"/><br />
-        <b>Mohamed Raed Bouhali</b><br />
-       
+      <td align="center" width="50%" style="border: none;">
+        <img src="raed.jpg" width="180" height="180" style="border-radius:50%; object-fit: cover; border: 4px solid #2ecc71; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);" alt="Mohamed Raed Bouhali"/>
+        <br />
+        <h3 style="margin-top: 10px;">Mohamed Raed Bouhali</h3>
+        <p><b>Data Engineer & Backend Architect</b></p>
+        <a href="https://github.com/mohamedraedbouhali"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="22"></a>
+        <a href="https://www.linkedin.com/in/bouhali-mohamed-raed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="22"></a>
       </td>
-      <td align="center" width="45%">
-        <img src="ilef.jpg" width="200" height="200" style="border-radius:50%; object-fit: cover; border: 3px solid #3498db;" alt="Ilef Ben Hassen"/><br />
-        <b>Ilef Ben Hassen</b><br />
-   
+      <td align="center" width="50%" style="border: none;">
+        <img src="ilef.jpg" width="180" height="180" style="border-radius:50%; object-fit: cover; border: 4px solid #3498db; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);" alt="Ilef Ben Hassen"/>
+        <br />
+        <h3 style="margin-top: 10px;">Ilef Ben Hassen</h3>
+        <p><b>ML Specialist & Frontend Lead</b></p>
+        <a href="https://github.com/BenHassenIlef"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="22"></a>
+        <a href="https://www.linkedin.com/in/ben-hassen-ilef-924859304/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="22"></a>
       </td>
     </tr>
   </table>
 </div>
 
+<br />
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="28">
+  <img src="https://forthebadge.com/images/badges/made-with-python.svg" height="28">
+  <img src="https://forthebadge.com/images/badges/uses-git.svg" height="28">
+</div>
+
+---
 ---
 
 ---
