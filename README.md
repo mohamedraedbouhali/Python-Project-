@@ -1,8 +1,13 @@
-<div align="center">
+div align="center">
 
-  ### 🚦 Smart City Prediction Engine & Data Enrichment
-  *Transforming static SDOT logs into dynamic traffic intelligence*
+# 🌿 Eco-Traffic Seattle
+### *Smart City Traffic Prediction via Multi-Source Data Enrichment*
 
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org)
   [![](https://img.shields.io/badge/Status-In--Development-yellow?style=for-the-badge)]()
   [![](https://img.shields.io/badge/Location-Seattle-00629B?style=for-the-badge&logo=seattle)]()
   [![](https://img.shields.io/badge/Framework-FastAPI%20%2B%20React-green?style=for-the-badge)]()
