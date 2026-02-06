@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=2ecc71&height=200&section=header&text=Eco-Traffic%20Seattle&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
   ### 🚦 Smart City Prediction Engine & Data Enrichment
   *Transforming static SDOT logs into dynamic traffic intelligence*
